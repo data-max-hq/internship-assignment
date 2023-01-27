@@ -3,7 +3,9 @@
 Data Max Internship Assignment
 
 ## Contact Details
-<`FirstName`> <`Lastname`> <`email`>
+<`FirstName`> <`Lastname`>
+
+<`email`>
 
 ## Proposed Solution Details
 - Time Complexity in Big-O notation: 
