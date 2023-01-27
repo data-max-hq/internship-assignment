@@ -37,6 +37,7 @@ write a function that returns an array containing all elements in both arrays wi
 
 ---
 ### Evaluation Criteria
-1. Clarity of the solution
+1. Correctness of the solution
 2. Time complexity of the solution
-3. Readability of the code
+3. Clarity of the solution
+4. Readability of the code
