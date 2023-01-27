@@ -30,10 +30,10 @@ write a function that returns an array containing all elements in both arrays wi
 
 ---
 ## Solution submission
-1. Fork the provided repository in a private repository ([guide](https://docs.github.com/en/get-started/quickstart/fork-a-repo))
-2. Fill in the `ReadMe.md` file, information about yourself 
-3. Add in the `ReadMe.md` file, information about your solution 
-4. Add as contributors: [Sadik Bakiu](https://github.com/sbakiu/), [Bujar Bakiu](https://github.com/bbakiu/), [Redi Cane](https://github.com/redicane)
+1. Create a new private repository for your exercise and add the hiring team members as private collaborators
+2. Create, commit and push your solution
+3. Add a `README.md` file with information about yourself and about your solution (Feel free to take parts from this repo's `README.md`)
+4. Invite as contributors: [Sadik Bakiu](https://github.com/sbakiu/), [Bujar Bakiu](https://github.com/bbakiu/), [Redi Cane](https://github.com/redicane)
 
 ---
 ### Evaluation Criteria
