@@ -34,4 +34,9 @@ write a function that returns an array containing all elements in both arrays wi
 2. Fill in the `ReadMe.md` file, information about yourself 
 3. Add in the `ReadMe.md` file, information about your solution 
 4. Add as contributors: [Sadik Bakiu](https://github.com/sbakiu/), [Bujar Bakiu](https://github.com/bbakiu/), [Redi Cane](https://github.com/redicane)
-5. 
+
+---
+### Evaluation Criteria
+1. Clarity of the solution
+2. Time complexity of the solution
+3. Readability of the code
