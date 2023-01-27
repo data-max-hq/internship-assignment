@@ -9,6 +9,15 @@ Data Max Internship Assignment
 - Time Complexity in Big-O notation: 
 - Algorithm summary: 
 
+## Task
+Given two arrays (`array_a` and `array_b`) with integer numbers, 
+write a function that returns an array containing all elements in both arrays without duplicates.
+
+## Examples
+### Example 1:
+* `array_a = [1, 2, 3, 8, 100, 4, 65, 9, 7]`
+* `array_b = [5, 6, 43, 8, 39, 74, 9, 100]`
+* `Expected output should contain: [1, 2, 3, 8, 100, 4, 65, 9, 7, 5, 6, 43, 39, 74]`
 
 ---
 ## Requirements
@@ -21,7 +30,8 @@ Data Max Internship Assignment
 
 ---
 ## Solution submission
-1. Fill in the `ReadMe.md` file, information about yourself
-2. Add in the `ReadMe.md` file, information about your solution
-3. Add as contributors: [Sadik Bakiu](https://github.com/sbakiu/), [Bujar Bakiu](https://github.com/bbakiu/), [Redi Cane](https://github.com/redicane)
-4. 
+1. Fork the provided repository in a private repository ([guide](https://docs.github.com/en/get-started/quickstart/fork-a-repo))
+2. Fill in the `ReadMe.md` file, information about yourself 
+3. Add in the `ReadMe.md` file, information about your solution 
+4. Add as contributors: [Sadik Bakiu](https://github.com/sbakiu/), [Bujar Bakiu](https://github.com/bbakiu/), [Redi Cane](https://github.com/redicane)
+5. 
