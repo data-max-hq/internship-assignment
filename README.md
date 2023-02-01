@@ -11,7 +11,7 @@ Data Max Internship Assignment
 - Time Complexity in Big-O notation: 
 - Algorithm summary: 
 
-## Task: Write a python script to solve the following problem:
+## Task: Write a program to solve the following problem:
 
 You wrote down the numbers from 1 to n, in order, on a whiteboard. When you weren’t paying attention, someone erased one of the numbers.
 Can you find the missing number?
