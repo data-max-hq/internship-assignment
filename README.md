@@ -8,19 +8,22 @@ Data Max Internship Assignment
 <`email`>
 
 ## Proposed Solution Details
-- Time Complexity in Big-O notation: 
+- Time Complexity in terms of Big-O notation: 
 - Algorithm summary: 
 
 ## Task: Write a program to solve the following problem:
 
-You wrote down the numbers from 1 to n, in order, on a whiteboard. When you weren’t paying attention, someone erased one of the numbers.
+You wrote down the numbers from 1 to `n`, in order, on a whiteboard. 
+When you weren’t paying attention, a student erased one of the numbers.
 Can you find the missing number?
 
 ---
 ### Input: 
-The first line of input contains a single integer n ( 2<=n<=100), which is the number of numbers that you wrote down.
+The first line of input contains a single integer `n` (2 <= n <= 100), which is the number of numbers that you wrote down.
 
-The second line of input contains a string of digits, which represents the numbers you wrote down (minus the one that has been erased). There are no spaces in this string. It is guaranteed to contain all of the numbers from 1 to n, in order, except for the single number that the student erased.
+The second line of input contains a string of digits, which represents the numbers you wrote down (minus the one that has been erased). 
+There are no spaces in this string. It is guaranteed to contain all the numbers from 1 to `n`, in order, 
+except for the single number that the student erased.
 
 ---
 ### Output: a single integer, which is the number that was erased.
@@ -29,9 +32,9 @@ The second line of input contains a string of digits, which represents the numbe
 ![img_1.png](images/img_1.png)
 
 ---
-### Write a program that:
-##### 1. Loads the string of numbers in the input into a list of integers.
-##### 2. Finds the missing number from the list.
+## Write a program that:
+1. Loads the string of numbers in the input into a list of integers.
+2. Finds the missing number from the list.
 
 ---
 ## Requirements
@@ -50,7 +53,7 @@ The second line of input contains a string of digits, which represents the numbe
 4. Invite as contributors: [Sadik Bakiu](https://github.com/sbakiu/), [Bujar Bakiu](https://github.com/bbakiu/), [Redi Cane](https://github.com/redicane)
 
 ---
-### Evaluation Criteria
+## Evaluation Criteria
 1. Correctness of the solution
 2. Time complexity of the solution
 3. Clarity of the solution
