@@ -11,24 +11,36 @@ Data Max Internship Assignment
 - Time Complexity in Big-O notation: 
 - Algorithm summary: 
 
-## Task
-Given two arrays (`array_a` and `array_b`) with integer numbers, 
-write a function that returns an array containing all elements in both arrays without duplicates.
+## Task: Write a python script to solve the following problem:
 
-## Examples
-### Example 1:
-* `array_a = [1, 2, 3, 8, 100, 4, 65, 9, 7]`
-* `array_b = [5, 6, 43, 8, 39, 74, 9, 100]`
-* `Expected output should contain: [1, 2, 3, 8, 100, 4, 65, 9, 7, 5, 6, 43, 39, 74]`
+You wrote down the numbers from 1 to n, in order, on a whiteboard. When you weren’t paying attention, someone erased one of the numbers.
+Can you find the missing number?
+
+---
+### Input: 
+The first line of input contains a single integer n ( 2<=n<=100), which is the number of numbers that you wrote down.
+
+The second line of input contains a string of digits, which represents the numbers you wrote down (minus the one that has been erased). There are no spaces in this string. It is guaranteed to contain all of the numbers from 1 to n, in order, except for the single number that the student erased.
+
+---
+### Output: a single integer, which is the number that was erased.
+
+
+![img_1.png](images/img_1.png)
+
+---
+### Write a program that:
+##### 1. Loads the string of numbers in the input into a list of integers.
+##### 2. Finds the missing number from the list.
 
 ---
 ## Requirements
-- Use only arrays as data structures. Sets, trees or maps are not allowed.
-- Ordering of elements in the returned array is *not* important.
-- There are no duplicated elements in either arrays.
+- Use only arrays/lists as data structures. Sets, trees or maps are not allowed.
 - Aim for an optimal solution.
 - Avoid using predefined functions like `sort`, `min`, `max`, etc.
-- Preferred programming languages: Java, C++, Python
+- Preferred programming languages: C++, Java, Python
+- Don't produce additional output other than the required output
+  
 
 ---
 ## Solution submission
@@ -43,3 +55,4 @@ write a function that returns an array containing all elements in both arrays wi
 2. Time complexity of the solution
 3. Clarity of the solution
 4. Readability of the code
+5. Memory efficiency of the solution
