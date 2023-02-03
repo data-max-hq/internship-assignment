@@ -43,6 +43,7 @@ except for the single number that the student erased.
 - Avoid using predefined functions like `sort`, `min`, `max`, etc.
 - Preferred programming languages: C++, Java, Python
 - Don't produce additional output other than the required output
+- Use the defined input format ⚠️
   
 
 ---
