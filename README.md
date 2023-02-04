@@ -33,8 +33,8 @@ except for the single number that the student erased.
 
 ---
 ## Write a program that:
-1. Loads the string of numbers in the input into a list of integers.
-2. Finds the missing number from the list.
+~~1. Loads the string of numbers in the input into a list of integers.~~
+1. Find the missing number from the list.
 
 ---
 ## Requirements
