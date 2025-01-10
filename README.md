@@ -60,3 +60,5 @@ except for the single number that the student erased.
 3. Clarity of the solution
 4. Readability of the code
 5. Memory efficiency of the solution
+
+Made with ❤️ by [Data Max](https://www.datamax.ai/)
